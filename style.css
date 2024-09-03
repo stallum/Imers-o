@@ -13,6 +13,7 @@ body {
 }
 
 
+
 h1 {
     font-size: 2.5rem; 
     color: #f2d024; 
@@ -22,12 +23,14 @@ h1 {
 }
 
 
+
 section {
     display: flex; 
     flex-direction: column; 
     align-items: center; 
     margin-bottom: 3rem; 
 }
+
 
 
 section input {
@@ -42,6 +45,7 @@ section input {
 }
 
 
+
 section button {
     padding: 0.8rem 1.2rem; 
     border: none; 
@@ -53,10 +57,12 @@ section button {
 }
 
 
+
 section button:hover {
     background-color: #dab80ae4; 
     box-shadow: 0 4px 8px rgba(238, 202, 23, 0.2); 
 }
+
 
 
 .resultados-pesquisa {
@@ -68,12 +74,7 @@ section button:hover {
     border-radius: 0.6rem; 
 }
 
-.resultados-pesquisa input[type="text"] {
-    flex: 1;
-    border: none;
-    outline: none;
-    padding: 10px;
-}
+
 
 .item-resultado {
     background: #FFFFFF; 
