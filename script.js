@@ -1,7 +1,8 @@
-const  searchInput = document.querySelector('input[type="text"]');
-const searchButton = document.querySelector('button[type="submit"]');
-const resultsContainer = document.querySelector('.item-resultado');
+// const  searchInput = document.querySelector('input[type="text"]');
+// const searchButton = document.querySelector('button[type="submit"]');
+// const resultsContainer = document.querySelector('.item-resultado');
 
-searchButton.addEventListener('click', () => {
-    const searchTerm = searchInput.value;
-})
+// searchButton.addEventListener('click', () => {
+//     const searchTerm = searchInput.value;
+// })
+console.log(Data[3].link)
